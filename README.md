@@ -63,6 +63,9 @@ The model is wrapped in an **imbalanced-learn pipeline** including preprocessing
 * Confusion Matrix Heatmap
   All plots are saved as `test_plots.png` when running the script.
 
+<img width="1282" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/034549d8-b2d9-4cd1-a3d3-290db5a84dd8" />
+
+
 ## Usage
 
 1. Clone the repository:
